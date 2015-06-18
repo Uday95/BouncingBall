@@ -1,0 +1,33 @@
+name : uday patil
+college : DKTE 
+year : Final yr (CSE)
+
+
+
+platform used for app : visual studio 12
+framwork:  4.5
+
+language : c# 
+
+
+
+consideration in app :
+
+
+mass of ball = 1;
+gravity = 2;
+coefficient of restitution = 0.5;(bouncing capacity factor)
+
+
+how to use app;
+
+1)click on show button to appear ball
+
+2) adjust angle ,velocity , position of ball
+
+3) click on through 
+
+4) to recheck click on reset.
+
+
+* zip file also contain setup you can install it on windows platform
